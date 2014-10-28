@@ -1,7 +1,7 @@
 *.swp
 
 # Ignore symlinks created:
-settings/Default
+settings/Default/*
 
 # Keep basic preferences file:
 !settings/Default/Preferences
